@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>棉果果</title>
-  <subtitle>舒适体验</subtitle>
+  <title>哎呀全棉</title>
+  <subtitle>为您提供舒适,放心的全棉产品</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/BerryJiang/BerryJiang.github.io/"/>
-  <updated>2017-06-27T08:16:22.083Z</updated>
+  <updated>2017-06-27T13:25:25.520Z</updated>
   <id>https://github.com/BerryJiang/BerryJiang.github.io/</id>
   
   <author>
@@ -16,93 +16,53 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试标签</title>
-    <link href="https://github.com/BerryJiang/BerryJiang.github.io/2017/06/27/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE/"/>
-    <id>https://github.com/BerryJiang/BerryJiang.github.io/2017/06/27/测试标签/</id>
-    <published>2017-06-27T08:00:03.000Z</published>
-    <updated>2017-06-27T08:16:22.083Z</updated>
+    <title>全棉和纯棉的区别</title>
+    <link href="https://github.com/BerryJiang/BerryJiang.github.io/2017/06/27/%E5%85%A8%E6%A3%89%E5%92%8C%E7%BA%AF%E6%A3%89%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
+    <id>https://github.com/BerryJiang/BerryJiang.github.io/2017/06/27/全棉和纯棉的区别/</id>
+    <published>2017-06-27T13:06:29.000Z</published>
+    <updated>2017-06-27T13:25:25.520Z</updated>
     
-    <content type="html"><![CDATA[<p>主要是测试一下标签</p>
+    <content type="html"><![CDATA[<p>纯棉织物是以棉花为原料，含棉率很高穿着舒服，含棉率在70%以上就被称为纯棉。购物时看见的100%全绵，就让很多朋友对全棉和纯棉产生了疑问。全棉和纯棉的区别是什么？全棉和纯棉一样吗？现在就一起来了解下吧！</p>
+<p>1<br>全棉是衣服及其它布艺材料中的专有名词，常见全棉衣服、全棉床上用品。种类有平布、府绸、麻纱、斜纹布、卡其、哗叽、华达呢、横贡、劳动布、牛津布、青年布、线呢、平绒、灯芯绒、绒布等多达20种。因此，全棉表示面料由100%的棉制成。全棉和纯棉的区别是什么？再一起来了解下纯棉。<br>2<br>纯棉织物是以棉花为纺织原料，通过经纬纱纵横交织而成的纺织品，含棉在75%以上的棉就是纯棉。分为纯棉纱卡、纯棉府绸、纯棉面料、纯棉布料。根据种类可以细分出20几种面料。这时有朋友或许会疑惑，纯棉和全棉不一样吗？<br>3<br>其实根据上面对于全棉和纯棉的解释，细心的朋友已经知道，纯棉就是全棉，全棉也即纯棉。含棉75%以上既可以称为全棉，因此纯棉和全棉从含棉上是一样的。要说区别就是叫法或者说法不一样。纯棉单纯指面料是100%的棉，全棉却指整件衣服的全部面料都是100%的棉。<br>4<br>​从上面对全棉和纯棉的区别分析说明后，各位应该清楚全棉和纯棉在含棉上是没有区别的，都是可以放心的棉质产品。根据加工程序及工艺不同，制作的衣服存在一定的差异，比如纯棉衣服容易皱，而一些全棉衣服因为加工的布料不一样却不容易皱。所有硬要找区别也就如此吧！</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;主要是测试一下标签&lt;/p&gt;
+      &lt;p&gt;纯棉织物是以棉花为原料，含棉率很高穿着舒服，含棉率在70%以上就被称为纯棉。购物时看见的100%全绵，就让很多朋友对全棉和纯棉产生了疑问。全棉和纯棉的区别是什么？全棉和纯棉一样吗？现在就一起来了解下吧！&lt;/p&gt;
+&lt;p&gt;1&lt;br&gt;全棉是衣服及其它布艺材料中的专有名词，常见全棉
+    
+    </summary>
+    
+      <category term="知识小贴士" scheme="https://github.com/BerryJiang/BerryJiang.github.io/categories/%E7%9F%A5%E8%AF%86%E5%B0%8F%E8%B4%B4%E5%A3%AB/"/>
+    
+    
+      <category term="全棉" scheme="https://github.com/BerryJiang/BerryJiang.github.io/tags/%E5%85%A8%E6%A3%89/"/>
+    
+      <category term="纯棉" scheme="https://github.com/BerryJiang/BerryJiang.github.io/tags/%E7%BA%AF%E6%A3%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>服务宗旨</title>
+    <link href="https://github.com/BerryJiang/BerryJiang.github.io/2017/06/27/%E5%93%81%E7%89%8C%E5%AE%97%E6%97%A8/"/>
+    <id>https://github.com/BerryJiang/BerryJiang.github.io/2017/06/27/品牌宗旨/</id>
+    <published>2017-06-27T12:45:52.000Z</published>
+    <updated>2017-06-27T13:25:43.536Z</updated>
+    
+    <content type="html"><![CDATA[<p>哎呀全棉，是一家致力于推广全棉用品的新锐品牌，旨在为您提供舒适,放心的全棉产品。每一款式哎呀全棉产品，都经过多位哎呀全棉体验专员经过严格标准进行检验，给您呈现一份科学的检验报告！让您能放心的采购哎呀全棉的每件产品！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;哎呀全棉，是一家致力于推广全棉用品的新锐品牌，旨在为您提供舒适,放心的全棉产品。每一款式哎呀全棉产品，都经过多位哎呀全棉体验专员经过严格标准进行检验，给您呈现一份科学的检验报告！让您能放心的采购哎呀全棉的每件产品！&lt;/p&gt;
 
     
     </summary>
     
-    
-      <category term="棉果果" scheme="https://github.com/BerryJiang/BerryJiang.github.io/tags/%E6%A3%89%E6%9E%9C%E6%9E%9C/"/>
-    
-      <category term="标签" scheme="https://github.com/BerryJiang/BerryJiang.github.io/tags/%E6%A0%87%E7%AD%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>棉果果介绍</title>
-    <link href="https://github.com/BerryJiang/BerryJiang.github.io/2017/06/27/%E6%A3%89%E6%9E%9C%E6%9E%9C%E4%BB%8B%E7%BB%8D/"/>
-    <id>https://github.com/BerryJiang/BerryJiang.github.io/2017/06/27/棉果果介绍/</id>
-    <published>2017-06-27T07:46:36.000Z</published>
-    <updated>2017-06-27T08:17:09.551Z</updated>
-    
-    <content type="html"><![CDATA[<p>棉果果,为您设计舒适,亲肤的全棉产品!</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;棉果果,为您设计舒适,亲肤的全棉产品!&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="介绍" scheme="https://github.com/BerryJiang/BerryJiang.github.io/categories/%E4%BB%8B%E7%BB%8D/"/>
+      <category term="服务小贴士" scheme="https://github.com/BerryJiang/BerryJiang.github.io/categories/%E6%9C%8D%E5%8A%A1%E5%B0%8F%E8%B4%B4%E5%A3%AB/"/>
     
     
-      <category term="棉果果" scheme="https://github.com/BerryJiang/BerryJiang.github.io/tags/%E6%A3%89%E6%9E%9C%E6%9E%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试标题</title>
-    <link href="https://github.com/BerryJiang/BerryJiang.github.io/2017/06/27/%E6%B5%8B%E8%AF%95%E6%A0%87%E9%A2%98/"/>
-    <id>https://github.com/BerryJiang/BerryJiang.github.io/2017/06/27/测试标题/</id>
-    <published>2017-06-27T01:50:44.000Z</published>
-    <updated>2017-06-27T07:47:24.459Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="测试" scheme="https://github.com/BerryJiang/BerryJiang.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://github.com/BerryJiang/BerryJiang.github.io/2017/06/27/hello-world/"/>
-    <id>https://github.com/BerryJiang/BerryJiang.github.io/2017/06/27/hello-world/</id>
-    <published>2017-06-27T01:33:57.928Z</published>
-    <updated>2017-06-27T01:33:57.928Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
+      <category term="服务宗旨" scheme="https://github.com/BerryJiang/BerryJiang.github.io/tags/%E6%9C%8D%E5%8A%A1%E5%AE%97%E6%97%A8/"/>
     
   </entry>
   
